@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1464637056 source:d:\games\codeblocks\lib_test\main.c
+	<stdio.h>
+	"lib_test.h"
+
+1464616779 d:\games\codeblocks\lib_test\lib_test.h
+
+1464636952 source:d:\games\codeblocks\lib_test\lib_test.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"lib_test.h"
+
